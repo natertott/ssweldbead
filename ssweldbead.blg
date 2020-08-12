@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: ssweldbead.aux
+The style file: apsrev4-1.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ssweldbeadNotes.bib
+Database file #2: ssbib.bib.bib
+Warning--entry type for "LynX" isn't style-file defined
+--line 83 of file ssbib.bib.bib
+control{REVTEX41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{apsrev41Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
+Warning--jnrlst (dependency: not reversed) set 1
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--empty year in LynX
+Warning--empty year in matweb
+You've used 13 entries,
+            5847 wiz_defined-function locations,
+            1680 strings with 16909 characters,
+and the built_in function-call counts, 12292 in all, are:
+= -- 658
+> -- 378
+< -- 107
++ -- 121
+- -- 111
+* -- 1999
+:= -- 1158
+add.period$ -- 13
+call.type$ -- 13
+change.case$ -- 51
+chr.to.int$ -- 21
+cite$ -- 15
+duplicate$ -- 1198
+empty$ -- 858
+format.name$ -- 213
+if$ -- 2359
+int.to.chr$ -- 1
+int.to.str$ -- 20
+missing$ -- 158
+newline$ -- 85
+num.names$ -- 33
+pop$ -- 514
+preamble$ -- 1
+purify$ -- 53
+quote$ -- 0
+skip$ -- 405
+stack$ -- 0
+substring$ -- 208
+swap$ -- 1132
+text.length$ -- 47
+text.prefix$ -- 0
+top$ -- 10
+type$ -- 177
+warning$ -- 3
+while$ -- 36
+width$ -- 0
+write$ -- 136
+(There were 4 warnings)

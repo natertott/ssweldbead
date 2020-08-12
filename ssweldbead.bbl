@@ -1,0 +1,170 @@
+%merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+%Control: key (0)
+%Control: author (8) initials jnrlst
+%Control: editor formatted (1) identically to author
+%Control: production of article title (-1) disabled
+%Control: page (0) single
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{11}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{http://dx.doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {Everton}\ \emph {et~al.}(2016)\citenamefont
+  {Everton}, \citenamefont {Hirsc}, \citenamefont {Stravroulakis},
+  \citenamefont {Leach},\ and\ \citenamefont {Clare}}]{Everton2016}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.~K.}\ \bibnamefont
+  {Everton}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Hirsc}},
+  \bibinfo {author} {\bibfnamefont {P.}~\bibnamefont {Stravroulakis}}, \bibinfo
+  {author} {\bibfnamefont {R.~K.}\ \bibnamefont {Leach}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {A.~T.}\ \bibnamefont {Clare}},\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Materials and Design}\ }\textbf
+  {\bibinfo {volume} {95}},\ \bibinfo {pages} {431} (\bibinfo {year}
+  {2016})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Zalameda}\ \emph {et~al.}(2013)\citenamefont
+  {Zalameda}, \citenamefont {Burke}, \citenamefont {Hafley}, \citenamefont
+  {Taminger}, \citenamefont {Domack}, \citenamefont {Brewer},\ and\
+  \citenamefont {Martin}}]{Zalameda2013}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Zalameda}}, \bibinfo {author} {\bibfnamefont {E.}~\bibnamefont {Burke}},
+  \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Hafley}}, \bibinfo
+  {author} {\bibfnamefont {K.}~\bibnamefont {Taminger}}, \bibinfo {author}
+  {\bibfnamefont {C.}~\bibnamefont {Domack}}, \bibinfo {author} {\bibfnamefont
+  {A.}~\bibnamefont {Brewer}}, \ and\ \bibinfo {author} {\bibfnamefont {R.~E.}\
+  \bibnamefont {Martin}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {SPIE Proceedings}\ }\textbf {\bibinfo {volume} {8705}} (\bibinfo
+  {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Liu}\ \emph {et~al.}(2014)\citenamefont {Liu},
+  \citenamefont {Liu}, \citenamefont {Harooni}, \citenamefont {Ma},\ and\
+  \citenamefont {Kovacevic}}]{Liu2014}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Liu}}, \bibinfo {author} {\bibfnamefont {W.}~\bibnamefont {Liu}}, \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Harooni}}, \bibinfo {author}
+  {\bibfnamefont {J.}~\bibnamefont {Ma}}, \ and\ \bibinfo {author}
+  {\bibfnamefont {R.}~\bibnamefont {Kovacevic}},\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Optics and Laser Technology}\ }\textbf
+  {\bibinfo {volume} {62}},\ \bibinfo {pages} {124} (\bibinfo {year}
+  {2014})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Li}\ \emph {et~al.}(2018)\citenamefont {Li},
+  \citenamefont {Liu}, \citenamefont {Wen}, \citenamefont {He}, \citenamefont
+  {Zhong}, \citenamefont {Wei}, \citenamefont {Shi},\ and\ \citenamefont
+  {Liu}}]{Li2018}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Z.}~\bibnamefont
+  {Li}}, \bibinfo {author} {\bibfnamefont {X.}~\bibnamefont {Liu}}, \bibinfo
+  {author} {\bibfnamefont {S.}~\bibnamefont {Wen}}, \bibinfo {author}
+  {\bibfnamefont {P.}~\bibnamefont {He}}, \bibinfo {author} {\bibfnamefont
+  {K.}~\bibnamefont {Zhong}}, \bibinfo {author} {\bibfnamefont
+  {Q.}~\bibnamefont {Wei}}, \bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Shi}}, \ and\ \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Liu}},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Sensors}\ }\textbf
+  {\bibinfo {volume} {18}},\ \bibinfo {pages} {1180} (\bibinfo {year}
+  {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Shevchik}\ \emph {et~al.}(2018)\citenamefont
+  {Shevchik}, \citenamefont {Kenel}, \citenamefont {Leinenbach},\ and\
+  \citenamefont {Wasmer}}]{Shevchik2018}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Shevchik}}, \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Kenel}},
+  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Leinenbach}}, \ and\
+  \bibinfo {author} {\bibfnamefont {K.}~\bibnamefont {Wasmer}},\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Additive Manufacturing}\ }\textbf
+  {\bibinfo {volume} {21}},\ \bibinfo {pages} {598} (\bibinfo {year}
+  {2018})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Brown}\ \emph {et~al.}(2019)\citenamefont {Brown},
+  \citenamefont {Losko}, \citenamefont {Carpenter}, \citenamefont {Cooley},
+  \citenamefont {Clausen}, \citenamefont {Dahal}, \citenamefont {Kenesei},\
+  and\ \citenamefont {Park}}]{Brown2019}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {D.}~\bibnamefont
+  {Brown}}, \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Losko}},
+  \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Carpenter}}, \bibinfo
+  {author} {\bibfnamefont {J.}~\bibnamefont {Cooley}}, \bibinfo {author}
+  {\bibfnamefont {B.}~\bibnamefont {Clausen}}, \bibinfo {author} {\bibfnamefont
+  {J.}~\bibnamefont {Dahal}}, \bibinfo {author} {\bibfnamefont
+  {P.}~\bibnamefont {Kenesei}}, \ and\ \bibinfo {author} {\bibfnamefont
+  {J.-S.}\ \bibnamefont {Park}},\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {Metallurgical and Materials Transactions A}\ }
+  (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Touloukian}\ \emph {et~al.}(1975)\citenamefont
+  {Touloukian}, \citenamefont {Powell}, \citenamefont {Ho},\ and\ \citenamefont
+  {Nicolaou}}]{Touloukian1975}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {Y.}~\bibnamefont
+  {Touloukian}}, \bibinfo {author} {\bibfnamefont {R.}~\bibnamefont {Powell}},
+  \bibinfo {author} {\bibfnamefont {C.}~\bibnamefont {Ho}}, \ and\ \bibinfo
+  {author} {\bibfnamefont {M.}~\bibnamefont {Nicolaou}},\ }\href@noop {} {\emph
+  {\bibinfo {title} {Thermophysical Properties of Matter}}},\ Vol.~\bibinfo
+  {volume} {12}\ (\bibinfo  {publisher} {IFI/Plenum},\ \bibinfo {address} {New
+  York},\ \bibinfo {year} {1975})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Instrument}()}]{LynX}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.~S.}\ \bibnamefont
+  {Instrument}},\ }\href@noop {} {\enquote {\bibinfo {title} {Lynx 120
+  timepix},}\ }\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Toby}\ and\ \citenamefont {Dreele}(2013)}]{GSASII}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {B.}~\bibnamefont
+  {Toby}}\ and\ \bibinfo {author} {\bibfnamefont {R.~V.}\ \bibnamefont
+  {Dreele}},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Journal of Applied Crystallography}\ }\textbf {\bibinfo {volume} {46}},\
+  \bibinfo {pages} {544} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Guinier}(1994)}]{Guinier1994}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Guinier}},\ }\href@noop {} {\emph {\bibinfo {title} {X-Ray Diffraction in
+  Crystals, Imperfect Crystals, and Amorphous Bodies}}},\ Vol.~\bibinfo
+  {volume} {1}\ (\bibinfo  {publisher} {Dover},\ \bibinfo {address} {San
+  Francisco, CA},\ \bibinfo {year} {1994})\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {MatWeb}()}]{matweb}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {MatWeb}},\ }\href
+  {``http://www.matweb.com/search/datasheet.aspx?matguid=99f8b4e4ef094bad912e3b0888b3f8db&n=1''}
+  {\enquote {\bibinfo {title} {308 stainless steel, annealed, bar},}\ }\bibinfo
+  {note}
+  {\text{http://www.matweb.com/search/datasheet.aspx?matguid=99f8b4e4ef094bad912e3b0888b3f8db\&n=1}}\BibitemShut
+  {NoStop}%
+\end{thebibliography}%
